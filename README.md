@@ -39,3 +39,7 @@ The Streamlit app allows users to input campaign details and predicts the expect
 - `model.pkl` – Trained machine learning model
 - `requirements.txt` – Required libraries
 - `README.md` – Project documentation
+
+- ## Live Demo
+
+- https://online-ad-revenue-prediction.streamlit.app/
